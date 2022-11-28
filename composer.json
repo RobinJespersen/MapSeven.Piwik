@@ -1,5 +1,5 @@
 {
-    "name": "mapseven/piwik",
+    "name": "custom/piwik",
     "type": "neos-package",
     "description": "Simple Piwik Integration into NeosCMS",
     "license": "MIT",
